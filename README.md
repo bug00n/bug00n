@@ -1,8 +1,8 @@
 # Danil Tulgaev
 
-**C++ Backend Developer**
+**Backend Developer**
 
-C++17/20, Python 3  
+C++17/20, Python 3, Golang
 Multithreading, asynchronous programming, networking, high-load systems  
 PostgreSQL, SQLite, Redis, SQL, YQL  
 Linux, Git, Docker, CMake, Boost.Asio
@@ -32,4 +32,4 @@ Team hackathon project focused on decision support and optimization for an indus
 
 ## Areas of interest
 
-C++ Backend · High-load Systems · Distributed Systems · Concurrency · Networking · Caching
+Backend · High-load Systems · Distributed Systems · Concurrency · Networking · Caching
